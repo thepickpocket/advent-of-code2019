@@ -1,2 +1,4 @@
 /.idea
+*.class
+/Day1/.idea
 /Day2/.idea
